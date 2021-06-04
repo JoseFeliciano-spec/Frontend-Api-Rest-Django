@@ -1,0 +1,14 @@
+.contenedortab{
+    margin-left: 1rem;
+}
+.b-t{
+    background-color: #4A4E4D;
+    color: #fff;
+    transition: .10s ease-in-out;
+    border-radius: 2rem;
+    &:hover{
+        background-color: #fff;
+        color: #4A4E4D;
+        border: 1px solid #4A4E4D;
+    }
+}
